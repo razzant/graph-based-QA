@@ -5,7 +5,7 @@ In this work, we demonstrate how knowledge graphs could improve the quality of q
 
 Requirements:
 
-  python                    3.7.6
+  python                    3.7.6\n
   
   transformers              2.4.1
   
